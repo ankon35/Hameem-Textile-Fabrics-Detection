@@ -1,0 +1,7 @@
+streamlit>=1.50
+opencv-python-headless>=4.9
+numpy
+pandas
+plotly>=5.20
+# needed only when a trained model is in models/best.pt
+ultralytics>=8.2
